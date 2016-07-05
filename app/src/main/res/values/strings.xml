@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rites Service</string>
+    <string name="title_activity_manager">Manager</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
